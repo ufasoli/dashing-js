@@ -39,7 +39,7 @@ function weatherJob() {
             if (results) {
                 var condition = results["channel"]["item"]["condition"];
                 var location = results["channel"]["location"];
-                send_event("weather", { location: location["city"], temperature: condition["temp"], code: condition["code"], format: "c" });
+                send_event("weather", { location: location["city"], temperature: 35, code: condition["code"], format: "c" });
             }
         })
     });
