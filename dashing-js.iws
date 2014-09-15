@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5bc6eaf9-7e8a-437f-83e3-d916fb6daf50" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jobs/weather.job.js" afterPath="$PROJECT_DIR$/jobs/weather.job.js" />
-    </list>
+    <list default="true" id="5bc6eaf9-7e8a-437f-83e3-d916fb6daf50" name="Default" comment="" />
     <ignored path="dashing-js.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
