@@ -10,4 +10,4 @@ setInterval(function() {
   send_event('valuation', {current: current_valuation, last: last_valuation});
   send_event('karma', {current: current_karma, last: last_karma});
   send_event('synergy', {value: Math.floor(Math.random() * 100)});
-}, 2 * 1000);
+}, 100 * 1000);
